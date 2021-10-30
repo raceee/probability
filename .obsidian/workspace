@@ -1,59 +1,45 @@
 {
   "main": {
-    "id": "d63f8e240b1cb0b9",
+    "id": "2530f3bfb31b6c6f",
     "type": "split",
     "children": [
       {
-        "id": "c6f3415aa5f4252d",
+        "id": "f1ec0dc533c05b10",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/change of variables technique.md",
+            "file": "chapter5/distribution function technique.md",
             "mode": "source"
           }
         },
-        "group": "a805816abfb977ac"
+        "group": "a4e5cf5e046ce9cc"
       },
       {
-        "id": "167540ca6e317113",
+        "id": "7c409999d6330cbd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/change of variables technique.md",
+            "file": "chapter5/distribution function technique.md",
             "mode": "preview"
           }
         },
-        "group": "a805816abfb977ac"
+        "group": "a4e5cf5e046ce9cc"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c2b5805e932ece5",
+    "id": "58dde68e90914103",
     "type": "split",
     "children": [
       {
-        "id": "2f0e889326cb5f89",
+        "id": "412e44c0f16800eb",
         "type": "tabs",
         "children": [
           {
-            "id": "34b6952c365b840a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "818a2e47f6dcb325",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a467ccd9385c66b8",
+            "id": "3438f5eab2761003",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +47,7 @@
             }
           },
           {
-            "id": "eef46d73c5b00642",
+            "id": "8ff4e6a66792d803",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,23 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515
+    "width": 292
   },
   "right": {
-    "id": "000ba6cf0b82d516",
+    "id": "32699709eb86cfb4",
     "type": "split",
     "children": [
       {
-        "id": "82aff1cedc6dcdba",
+        "id": "52303d35109ee222",
         "type": "tabs",
         "children": [
           {
-            "id": "b9a5b0276c80d3ac",
+            "id": "bc00aa91bd296128",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter5/change of variables technique.md",
+                "file": "chapter5/distribution function technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,20 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 237
   },
-  "active": "c6f3415aa5f4252d",
+  "active": "7c409999d6330cbd",
   "lastOpenFiles": [
-    "chapter5/change of variables technique.md",
-    "chapter5/Transformation of a Single Random Variable.md",
     "chapter5/distribution function technique.md",
-    "chapter3/cdf.md",
-    "README.md",
-    "Untitled.md",
+    "chapter5/change of variables technique.md",
     "chapter5/Transformations of Two Random Variables.md",
-    "chapter5/several random variables.md",
-    "chapter3/pdf.md",
-    "chapter4/Marginal Probability Mass Function.md"
+    "chapter5/Transformation of a Single Random Variable.md",
+    "chapter3/cdf.md",
+    "Joint Probability Mass Function.md",
+    "Marginal Probability Mass Function.md",
+    "several random variables.md",
+    "Transformation of a Single Random Variable.md",
+    "pdf.md"
   ]
 }
