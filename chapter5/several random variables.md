@@ -1,3 +1,4 @@
+#chapter5 
 What if there are lots of variables
 ---
 ### Example 5.3-3
