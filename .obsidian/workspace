@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "f1ec0dc533c05b10",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chapter5/distribution function technique.md",
-            "mode": "source"
-          }
-        },
-        "group": "a4e5cf5e046ce9cc"
-      },
-      {
         "id": "7c409999d6330cbd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/distribution function technique.md",
+            "file": "chapter5/moment generating function technique.md",
             "mode": "preview"
           }
         },
-        "group": "a4e5cf5e046ce9cc"
+        "group": "7b0e8050599755b3"
+      },
+      {
+        "id": "3292d93ee6093ba8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter5/moment generating function technique.md",
+            "mode": "source"
+          }
+        },
+        "group": "7b0e8050599755b3"
       }
     ],
     "direction": "vertical"
@@ -34,6 +34,20 @@
     "id": "58dde68e90914103",
     "type": "split",
     "children": [
+      {
+        "id": "761891b0a069c368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ec0dc533c05b10",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "412e44c0f16800eb",
         "type": "tabs",
@@ -65,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 349
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -81,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter5/distribution function technique.md",
+                "file": "chapter5/moment generating function technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +112,9 @@
     "direction": "horizontal",
     "width": 237
   },
-  "active": "7c409999d6330cbd",
+  "active": "3292d93ee6093ba8",
   "lastOpenFiles": [
+    "chapter5/moment generating function technique.md",
     "chapter5/distribution function technique.md",
     "chapter5/change of variables technique.md",
     "chapter5/Transformations of Two Random Variables.md",
@@ -108,7 +123,6 @@
     "Joint Probability Mass Function.md",
     "Marginal Probability Mass Function.md",
     "several random variables.md",
-    "Transformation of a Single Random Variable.md",
-    "pdf.md"
+    "Transformation of a Single Random Variable.md"
   ]
 }
