@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/moment generating function technique.md",
-            "mode": "preview"
+            "file": "Test 2.md",
+            "mode": "source"
           }
         },
         "group": "7b0e8050599755b3"
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/moment generating function technique.md",
-            "mode": "source"
+            "file": "Test 2.md",
+            "mode": "preview"
           }
         },
         "group": "7b0e8050599755b3"
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349
+    "width": 419
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter5/moment generating function technique.md",
+                "file": "Test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +110,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237
+    "width": 237,
+    "collapsed": true
   },
-  "active": "3292d93ee6093ba8",
+  "active": "7c409999d6330cbd",
   "lastOpenFiles": [
+    "Test 2.md",
     "chapter5/moment generating function technique.md",
     "chapter5/distribution function technique.md",
     "chapter5/change of variables technique.md",
@@ -122,7 +124,6 @@
     "chapter3/cdf.md",
     "Joint Probability Mass Function.md",
     "Marginal Probability Mass Function.md",
-    "several random variables.md",
-    "Transformation of a Single Random Variable.md"
+    "several random variables.md"
   ]
 }
