@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#chapter3",
@@ -31,14 +31,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.97945205479452,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.520547945205479,
+  "repelStrength": 15.6164383561644,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224427,
-  "close": true
+  "linkDistance": 320,
+  "scale": 0.2588386562181634,
+  "close": false
 }

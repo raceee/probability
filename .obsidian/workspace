@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7c409999d6330cbd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test 2.md",
-            "mode": "source"
-          }
-        },
-        "group": "7b0e8050599755b3"
-      },
-      {
         "id": "3292d93ee6093ba8",
         "type": "leaf",
         "state": {
@@ -24,8 +12,7 @@
             "file": "Test 2.md",
             "mode": "preview"
           }
-        },
-        "group": "7b0e8050599755b3"
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419
+    "width": 379
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -113,7 +100,7 @@
     "width": 237,
     "collapsed": true
   },
-  "active": "7c409999d6330cbd",
+  "active": "3292d93ee6093ba8",
   "lastOpenFiles": [
     "Test 2.md",
     "chapter5/moment generating function technique.md",
