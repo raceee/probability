@@ -1,3 +1,4 @@
+#chapter5 
 Additionally to the other sections of techniques for determining the distribution of a function of random variables with known distributions (namely: [[change of variables technique]], [[distribution function technique]], [[several random varibles]]).
 
 ---
