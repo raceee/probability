@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Test 3.md",
+            "file": "chapter5/moment generating function technique.md",
             "mode": "preview"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test 3.md",
+                "file": "chapter5/moment generating function technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +102,8 @@
   },
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
-    "Test 3.md",
     "chapter5/moment generating function technique.md",
+    "Test 3.md",
     "chapter4/correlation coefficient.md",
     "chapter5/Transformation of a Single Random Variable.md",
     "chapter5/Transformations of Two Random Variables.md",
