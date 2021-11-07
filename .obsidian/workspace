@@ -4,17 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "da9cfbb560ced3c0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chapter5/Transformation of a Single Random Variable.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "6843ada36ce46d58",
         "type": "leaf",
         "state": {
@@ -77,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 430
+    "width": 422
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -114,9 +103,9 @@
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
     "Test 3.md",
-    "chapter5/Transformation of a Single Random Variable.md",
-    "chapter4/correlation coefficient.md",
     "chapter5/moment generating function technique.md",
+    "chapter4/correlation coefficient.md",
+    "chapter5/Transformation of a Single Random Variable.md",
     "chapter5/Transformations of Two Random Variables.md",
     "chapter5/several random variables.md",
     "chapter5/distribution function technique.md",
