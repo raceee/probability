@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/moment generating function technique.md",
+            "file": "chapter5/Transformations of Two Random Variables.md",
             "mode": "preview"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter5/moment generating function technique.md",
+                "file": "chapter5/Transformations of Two Random Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +102,14 @@
   },
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
+    "chapter5/Transformations of Two Random Variables.md",
+    "chapter5/distribution function technique.md",
     "chapter5/moment generating function technique.md",
+    "chapter5/several random variables.md",
+    "chapter5/change of variables technique.md",
     "Test 3.md",
     "chapter4/correlation coefficient.md",
     "chapter5/Transformation of a Single Random Variable.md",
-    "chapter5/Transformations of Two Random Variables.md",
-    "chapter5/several random variables.md",
-    "chapter5/distribution function technique.md",
-    "chapter5/change of variables technique.md",
     "chapter4/Joint Probability Mass Function.md",
     "chapter4/Marginal Probability Mass Function.md"
   ]
