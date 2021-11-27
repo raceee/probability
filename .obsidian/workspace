@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter5/Transformations of Two Random Variables.md",
-            "mode": "preview"
+            "file": "random.md",
+            "mode": "source"
           }
         }
       }
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 189
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter5/Transformations of Two Random Variables.md",
+                "file": "random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
-    "chapter5/Transformations of Two Random Variables.md",
-    "chapter5/distribution function technique.md",
+    "random.md",
     "chapter5/moment generating function technique.md",
-    "chapter5/several random variables.md",
+    "chapter5/distribution function technique.md",
     "chapter5/change of variables technique.md",
-    "Test 3.md",
     "chapter4/correlation coefficient.md",
-    "chapter5/Transformation of a Single Random Variable.md",
+    "chapter4/independent or dependent.md",
     "chapter4/Joint Probability Mass Function.md",
-    "chapter4/Marginal Probability Mass Function.md"
+    "chapter4/Marginal Probability Mass Function.md",
+    "chapter5/Transformations of Two Random Variables.md",
+    "chapter5/several random variables.md"
   ]
 }
