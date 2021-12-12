@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter6/maximum likelihood estimator.md",
+            "file": "chapter1/independent events.md",
             "mode": "source"
           }
         },
         "group": "c6ac10005cb79d36"
       },
       {
-        "id": "01f58feb6fb6ce77",
+        "id": "2097ab4b451ef500",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter6/maximum likelihood estimator.md",
+            "file": "chapter1/independent events.md",
             "mode": "preview"
           }
         },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter6/maximum likelihood estimator.md",
+                "file": "chapter1/independent events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +113,17 @@
     "width": 237,
     "collapsed": true
   },
-  "active": "01f58feb6fb6ce77",
+  "active": "6843ada36ce46d58",
   "lastOpenFiles": [
+    "chapter1/independent events.md",
+    "chapter1/conditional probability.md",
+    "chapter1/properties of probability.md",
+    "chapter1/methods of enumeration.md",
+    "random.md",
     "chapter6/maximum likelihood estimator.md",
     "random functions associated with normal distributions.md",
-    "random.md",
     "chapter5/moment generating function technique.md",
     "chapter5/distribution function technique.md",
-    "chapter5/change of variables technique.md",
-    "chapter4/correlation coefficient.md",
-    "chapter4/independent or dependent.md",
-    "chapter4/Joint Probability Mass Function.md",
-    "chapter4/Marginal Probability Mass Function.md"
+    "chapter5/change of variables technique.md"
   ]
 }
