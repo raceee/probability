@@ -118,14 +118,14 @@
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
     "chapter7/confidence intervals for means.md",
-    "Untitled.md",
-    "chapter4/independent or dependent.md",
-    "Test 3.md",
-    "chapter3/normal distribution.md",
-    "chapter3/exponential distribution.md",
-    "chapter6/maximum likelihood estimator.md",
-    "random.md",
+    "chapter5/random functions associated with normal distributions.md",
+    "chapter5/moment generating function technique.md",
+    "chapter5/distribution function technique.md",
+    "chapter5/change of variables technique.md",
+    "chapter5/central limit theorem.md",
     "chapter5/approximations for discrete distributions.md",
-    "chapter5/central limit theorem.md"
+    "chapter3/normal distribution.md",
+    "chapter6/maximum likelihood estimator.md",
+    "chapter5/Transformations of Two Random Variables.md"
   ]
 }
