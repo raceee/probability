@@ -1,0 +1,3 @@
+#chapter2 
+The situation in which we observe a sequence of independent Bernoulli trials until exactly $r$ successes occur, where $r$ is fixed positive integer. Let the random variable $X$ denote the number of trials needed to observe the $r$th success. That is, $X$ is the trial number on which the $r$th success is observed. By the multiplication rule of probabilities, the pmf of $X$-say, $f(x)$--equals the product of the probability $$f(x) = {x-1\choose r-1}p^{r-1}(1-p)^{x-r} = {x-1\choose r-1}p^{r-1}q^{x-r}$$
+which is the equation for the $\textbf{negative binomial distribution}$.

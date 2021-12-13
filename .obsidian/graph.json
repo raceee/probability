@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 16706817
       }
+    },
+    {
+      "query": "tag:#chapter1",
+      "color": {
+        "a": 1,
+        "rgb": 2818303
+      }
+    },
+    {
+      "query": "tag:#chapter2",
+      "color": {
+        "a": 1,
+        "rgb": 2313549
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5334068007155055,
+  "scale": 0.27137704971282156,
   "close": true
 }

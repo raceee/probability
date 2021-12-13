@@ -1,0 +1,2 @@
+#chapter7
+Here we will investigate how close the unbiased estimate (from the [[maximum likelihood estimator]]) for $\overline{X}$ comes to the unknown mean $\mu$. We do this by constructing a confidnece interval for the unknown paramter $\mu$.

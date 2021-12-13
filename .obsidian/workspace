@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter1/independent events.md",
+            "file": "chapter7/confidence intervals for means.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "chapter1/independent events.md",
+            "file": "chapter7/confidence intervals for means.md",
             "mode": "preview"
           }
         },
@@ -37,6 +37,7 @@
       {
         "id": "761891b0a069c368",
         "type": "tabs",
+        "dimension": 49.71482889733841,
         "children": [
           {
             "id": "f1ec0dc533c05b10",
@@ -51,6 +52,7 @@
       {
         "id": "412e44c0f16800eb",
         "type": "tabs",
+        "dimension": 50.28517110266159,
         "children": [
           {
             "id": "3438f5eab2761003",
@@ -79,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 447
+    "width": 733
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter1/independent events.md",
+                "file": "chapter7/confidence intervals for means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +117,15 @@
   },
   "active": "6843ada36ce46d58",
   "lastOpenFiles": [
-    "chapter1/independent events.md",
-    "chapter1/conditional probability.md",
-    "chapter1/properties of probability.md",
-    "chapter1/methods of enumeration.md",
-    "random.md",
+    "chapter7/confidence intervals for means.md",
+    "Untitled.md",
+    "chapter4/independent or dependent.md",
+    "Test 3.md",
+    "chapter3/normal distribution.md",
+    "chapter3/exponential distribution.md",
     "chapter6/maximum likelihood estimator.md",
-    "random functions associated with normal distributions.md",
-    "chapter5/moment generating function technique.md",
-    "chapter5/distribution function technique.md",
-    "chapter5/change of variables technique.md"
+    "random.md",
+    "chapter5/approximations for discrete distributions.md",
+    "chapter5/central limit theorem.md"
   ]
 }

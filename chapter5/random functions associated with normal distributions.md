@@ -13,3 +13,13 @@ If $X_1 , X_2 ,\dots , X_n$ are $n$ mutually independent normal variables with m
 If $X_1 , X_2 ,\dots , X_n$ are observation of a random sample of size $n$ from the normal distribution $N(\mu ,\sigma^2 )$, then the distribution of the sample mean $\overline{X} = 1/n\sum_{i=1}^n X_i$ is $N(\mu , \sigma^2 /n)$
 
 ---
+
+##### Theorem 5.5-2
+Let $X_1 , X_2 , \dots , X_n$ be observations of a random sample of size $n$ from the normal distribution $N(\mu, \sigma^2 )$. Then the sample mean is $$\overline{X} = \frac{1}{n}\sum_{i=1}^n X_i$$
+The sample variance is $$S^2 = \frac{1}{n-1}\sum_{i=1}^{n}(X_i -\overline{X})^2$$ are independent and $$\frac{(n-1)S^2}{\sigma^2} = \frac{\sum_{i=1}^{n}(X_i -\overline{X})^2}{\sigma^2}\quad is \quad\mathbb{X}^2 (n-1)$$
+
+---
+
+##### Theorem 5.5-3
+(Student's t distribution)
+Let $$T = \frac{Z}{\sqrt{U/r}}$$

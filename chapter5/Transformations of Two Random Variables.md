@@ -1,6 +1,7 @@
 #chapter5
 Remember from [[Transformation of a Single Random Variable]] in the continuous case, if $Y = u(X)$ was an increasing or decreasing function of X, with inverse $X = v(Y)$, then the [[pdf]] of Y was $$g(y) = \vert v'(y)\vert f[v(y)], \quad c < y < d$$ For two random variables this single valued function changes to $$g(y_1 , y_2 ) = \vert J\vert f[v_1 (y_1 , y_2 ), v_2 (y_1 , y_2 )]$$
 In this case we find the support $S_y$ of $Y_1$, $Y_2$ by considering the mapping of the supprt $S_x$ of $X_1$, $X_2$ under the transformation $y_1 = u_1 (x_1 , x_2)$ $y_2 = u_2 (x_1 , x_2 )$. This method is called the [[change of variables technique]]
+
 ---
 Example 1:
 Let $X_1$ and $X_2$ be independent random variables, each with [[pdf]]

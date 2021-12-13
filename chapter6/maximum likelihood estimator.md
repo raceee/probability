@@ -1,3 +1,5 @@
+#chapter6
+
 The goal of a maximum likelihood estimator (MLE) is to find the optimal way to fit a distribution to the data. The distribution and parameter to be optimized is denoted as $$f(x;\theta )$$ in general. Where $\theta$ comes from a paramter space denoted as $\theta\in \Omega$. The computation goal for the MLE is to find a $\theta$ that maximizes the likelihood of the sample data. This found $\theta$ value for the maximal likelihood is denoted as $\hat{\theta}$.
 
 ---
