@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6843ada36ce46d58",
+        "id": "8b30ed94efebe554",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chapter7/confidence intervals for means.md",
-            "mode": "source"
-          }
-        },
-        "group": "c6ac10005cb79d36"
-      },
-      {
-        "id": "2097ab4b451ef500",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "chapter7/confidence intervals for means.md",
-            "mode": "preview"
-          }
-        },
-        "group": "c6ac10005cb79d36"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -37,7 +21,7 @@
       {
         "id": "761891b0a069c368",
         "type": "tabs",
-        "dimension": 49.71482889733841,
+        "dimension": 73.95437262357414,
         "children": [
           {
             "id": "f1ec0dc533c05b10",
@@ -52,7 +36,7 @@
       {
         "id": "412e44c0f16800eb",
         "type": "tabs",
-        "dimension": 50.28517110266159,
+        "dimension": 26.045627376425855,
         "children": [
           {
             "id": "3438f5eab2761003",
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 733
+    "width": 719
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter7/confidence intervals for means.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,8 +98,10 @@
     "width": 237,
     "collapsed": true
   },
-  "active": "6843ada36ce46d58",
+  "active": "8b30ed94efebe554",
   "lastOpenFiles": [
+    "README.md",
+    "chapter1/methods of enumeration.md",
     "chapter7/confidence intervals for means.md",
     "chapter5/random functions associated with normal distributions.md",
     "chapter5/moment generating function technique.md",
@@ -124,8 +109,6 @@
     "chapter5/change of variables technique.md",
     "chapter5/central limit theorem.md",
     "chapter5/approximations for discrete distributions.md",
-    "chapter3/normal distribution.md",
-    "chapter6/maximum likelihood estimator.md",
-    "chapter5/Transformations of Two Random Variables.md"
+    "chapter3/normal distribution.md"
   ]
 }
