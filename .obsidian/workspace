@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "2530f3bfb31b6c6f",
+    "id": "c9022e2ca5e0f4f4",
     "type": "split",
     "children": [
       {
-        "id": "8b30ed94efebe554",
+        "id": "b3e9cde43094ee62",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "several random varibles.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -21,7 +24,7 @@
       {
         "id": "761891b0a069c368",
         "type": "tabs",
-        "dimension": 73.95437262357414,
+        "dimension": 43.91634980988593,
         "children": [
           {
             "id": "f1ec0dc533c05b10",
@@ -36,7 +39,7 @@
       {
         "id": "412e44c0f16800eb",
         "type": "tabs",
-        "dimension": 26.045627376425855,
+        "dimension": 56.083650190114064,
         "children": [
           {
             "id": "3438f5eab2761003",
@@ -65,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 719
+    "width": 534
   },
   "right": {
     "id": "32699709eb86cfb4",
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "several random varibles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +102,17 @@
     "width": 237,
     "collapsed": true
   },
-  "active": "8b30ed94efebe554",
+  "active": "b3e9cde43094ee62",
   "lastOpenFiles": [
+    "several random varibles.md",
+    "chapter5/moment generating function technique.md",
+    "chapter5/distribution function technique.md",
+    "chapter5/change of variables technique.md",
     "README.md",
     "chapter1/methods of enumeration.md",
     "chapter7/confidence intervals for means.md",
     "chapter5/random functions associated with normal distributions.md",
-    "chapter5/moment generating function technique.md",
-    "chapter5/distribution function technique.md",
-    "chapter5/change of variables technique.md",
     "chapter5/central limit theorem.md",
-    "chapter5/approximations for discrete distributions.md",
-    "chapter3/normal distribution.md"
+    "chapter5/approximations for discrete distributions.md"
   ]
 }
